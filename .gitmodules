@@ -4,3 +4,12 @@
 [submodule "Python-Projects"]
 	path = Python-Projects
 	url = https://github.com/thompsonb908/Python-Projects.git
+[submodule "CEHv11-Notes"]
+	path = CEHv11-Notes
+	url = https://github.com/thompsonb908/CEHv11-Notes.git
+[submodule "Fullstack-Notes"]
+	path = Fullstack-Notes
+	url = https://github.com/thompsonb908/Fullstack-Notes.git
+[submodule "Web-App-Hacking-Notes"]
+	path = Web-App-Hacking-Notes
+	url = https://github.com/thompsonb908/Web-App-Hacking-Notes.git
