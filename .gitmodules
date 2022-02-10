@@ -1,0 +1,6 @@
+[submodule "PHP"]
+	path = PHP
+	url = https://github.com/thompsonb908/PHP.git
+[submodule "Python-Projects"]
+	path = Python-Projects
+	url = https://github.com/thompsonb908/Python-Projects.git
