@@ -13,3 +13,7 @@
 [submodule "Web-App-Hacking-Notes"]
 	path = Web-App-Hacking-Notes
 	url = https://github.com/thompsonb908/Web-App-Hacking-Notes.git
+[submodule "CPENT-Notes"]
+	path = CPENT-Notes
+	url = http://github.com/thompsonb908/CPENT-Notes.git
+	branch = main
